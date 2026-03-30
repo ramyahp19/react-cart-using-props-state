@@ -17,3 +17,8 @@ The application displays a list of products and allows users to add items to a c
 - HTML
 - CSS
 
+  
+## 📚 Learning Purpose
+
+This project is built for learning how **React Props and State work together** to build interactive UI components.
+
